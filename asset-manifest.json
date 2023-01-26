@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ASA_Exam_Project/static/css/main.6eae30fc.css",
+    "main.js": "/ASA_Exam_Project/static/js/main.73e6b925.js",
+    "index.html": "/ASA_Exam_Project/index.html",
+    "main.6eae30fc.css.map": "/ASA_Exam_Project/static/css/main.6eae30fc.css.map",
+    "main.73e6b925.js.map": "/ASA_Exam_Project/static/js/main.73e6b925.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eae30fc.css",
+    "static/js/main.73e6b925.js"
+  ]
+}
