@@ -1,0 +1,19 @@
+
+.carListContainer{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 20px,20px;
+}
+.carList{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-left: 100px;
+}
+.spinner{
+  position: absolute;
+  top: 50%;
+  left:50% ;
+
+}

@@ -1,0 +1,42 @@
+
+.carContainer{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid rgb(223, 209, 209);
+    border-radius: 10px;
+}
+.carInfo{
+    /* display: flex; */
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+    margin-bottom: 10px;
+    /* padding: 2px; */
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.carDesc{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 3px;
+    /* flex-wrap: wrap; */
+
+
+}
+.carImage{
+  width: 300px;
+  height: 300px;
+}
+.imageWrapper{
+    width: 50%;
+    height: 300px;
+}
+.carName{
+    font-size: 24px;
+    font-weight: bold;
+}
+.carNamespan{
+    color: blue;
+}
+.carPrice{
+    font-size: 20px;
+}
